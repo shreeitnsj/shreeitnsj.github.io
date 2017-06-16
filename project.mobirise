@@ -167,7 +167,7 @@
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Sales &amp; Services\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Sales &amp; Services\" data-toolbar=\"-mbrBtnMove\">More</a>"
               },
               {
                 "active": false,
