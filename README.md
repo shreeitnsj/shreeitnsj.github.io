@@ -1,2 +1,2 @@
-# shreeitnsj.github.io/Home.html
+# shreeitnsj.github.io
 GitHub Pages
