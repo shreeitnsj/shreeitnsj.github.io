@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home",
+    "currentPage": "Computer & Laptops Repairs",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -362,10 +362,10 @@
         }
       ]
     },
-    "Sales & Services": {
+    "Computer & Laptops Repairs": {
       "settings": {
         "title": "",
-        "meta_descr": "Sales & Services"
+        "meta_descr": "Repairs"
       },
       "components": [
         {
@@ -483,7 +483,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-e",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "47",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
@@ -521,9 +521,18 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sales &amp; Services\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Computer &amp; Laptop Repairs",
+          "text": "We provide &nbsp;many types of Upgrades and Repair services for Computers &amp; Laptop. It can be really frustrating when things break or just don't work. Shree IT Solution are certified and guaranteed to assist in the correct resolution of all Repairs.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sales &amp; Services\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          }
         }
       ]
     }

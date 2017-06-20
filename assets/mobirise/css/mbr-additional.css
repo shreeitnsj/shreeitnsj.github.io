@@ -555,3 +555,10 @@ h6,
 #menu-9 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box5-e H3 {
+  font-size: 30px;
+}
+#msg-box5-e P {
+  text-align: left;
+  font-size: 17px;
+}
