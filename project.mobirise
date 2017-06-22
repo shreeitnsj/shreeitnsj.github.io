@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home",
+    "currentPage": "Computer & Laptops Repairs",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -346,9 +346,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
